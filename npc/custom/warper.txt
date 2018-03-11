@@ -563,7 +563,7 @@ nameless_n,259,213,4	duplicate(Warper)	Warper#nam	751
 niflheim,205,179,4	duplicate(Warper)	Warper#nif	751
 pay_arche,42,134,4	duplicate(Warper)	Warper#arc	751
 payon,182,108,4	duplicate(Warper)	Warper#pay	751
-prontera,160,185,4	duplicate(Warper)	Warper#prt	751
+prontera,160,185,4	duplicate(Warper)	Warper#prt	811
 prt_fild05,279,223,6	duplicate(Warper)	Warper#cul	751
 rachel,135,116,4	duplicate(Warper)	Warper#rac	751
 splendide,205,153,4	duplicate(Warper)	Warper#spl	751
