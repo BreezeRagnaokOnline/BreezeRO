@@ -21,7 +21,7 @@
 ///
 /// Leave this line to enable renewal specific support such as renewal formulas
 //
-#define RENEWAL
+//#define RENEWAL
 
 /// Renewal cast time
 /// (disable by commenting the line)
