@@ -1,0 +1,7 @@
+﻿  strbuf.c
+  scanner.c
+  scanctx.c
+  libconfig.c
+  grammar.c
+  Generating Code...
+  libconfig.vcxproj -> C:\Users\MikeAndMeaghan\Desktop\MikeRO\.vs\build\libconfig.lib

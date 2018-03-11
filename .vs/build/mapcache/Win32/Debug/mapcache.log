@@ -1,0 +1,4 @@
+﻿C:\Users\MikeAndMeaghan\Desktop\MikeRO\src\tool\mapcache.vcxproj(164,5): warning MSB3061: Unable to delete file "C:\Users\MikeAndMeaghan\Desktop\MikeRO\zlib.dll". Access to the path 'C:\Users\MikeAndMeaghan\Desktop\MikeRO\zlib.dll' is denied.
+  mapcache.c
+  mapcache.vcxproj -> C:\Users\MikeAndMeaghan\Desktop\MikeRO\mapcache.exe
+  mapcache.vcxproj -> C:\Users\MikeAndMeaghan\Desktop\MikeRO\mapcache.pdb (Full PDB)
