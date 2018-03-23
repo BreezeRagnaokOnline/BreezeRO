@@ -6579,3 +6579,18 @@
 19505,T_Cigarette,T Cigarette,4,0,,0,,0,,0,0xFFFFFFFF,7,2,4096,,0,0,54,{},{},{}
 19506,T_Valkyrie_Feather_Band,T Valkyrie Feather Band,4,0,,0,,0,,0,0xFFFFFFFF,7,2,1024,,0,1,300,{},{},{}
 19507,Fine_Sun,Clear Sun,4,0,,0,,0,,0,0xFFFFFFFF,7,2,1024,,1,0,654,{},{},{}
+
+// BreezeRO Custom Items
+// ID,AegisName,Name,Type,Buy,Sell,Weight,ATK,DEF,Range,Slots,Job,Class,Gender,Loc,wLV,eLV[:maxLevel],Refineable,View,{ Script },{ OnEquip_Script },{ OnUnequip_Script }
+40000,BreezeRO_Ear_Of_Angel's_Wing_,BreezeRO Angel Wing Ears,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,158,{},{},{}
+40001,BreezeRO_Red_Angel_Wing_Ears,BreezeRO Red Angel Wing Ears,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,1677,{},{},{}
+40002,BreezeRO_Binoculars_,BreezeRO Binoculars,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,83,{},{},{}
+40003,BreezeRO_Evil_Wing_Ears_,BreezeRO Evil Wing Ears,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,152,{},{},{}
+40004,BreezeRO_Fin_Helm_,BreezeRO Fin Helm,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,100,{},{},{}
+40005,BreezeRO_Ice_Wing_Ears_,BreezeRO Ice Wing Ear,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,584,{},{},{}
+40006,BreezeRO_Red_Glasses_,BreezeRO Red Glasses,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,316,{},{},{}
+40007,Breeze_RoboEye,BreezeRO Robo Eye,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,345,{},{},{}
+40008,BreezeRO_Scuba_Mask_,BreezeRO Scuba Mask,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,400,{},{},{}
+40009,BreezeRO_Sigrun's_Wing_,BreezeRO Sigrun's Wings,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,568,{},{},{}
+40010,BreezeRO_Small_Ribbons_,BreezeRO Small Ribbons,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,169,{},{},{}
+40011,BreezeRO_Elven_Ears_,BreezeRO Elven Ears,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,73,{},{},{}
