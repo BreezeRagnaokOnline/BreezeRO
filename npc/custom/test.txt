@@ -1,0 +1,6 @@
+prontera,228,77,0	script	Test#0	725,{
+
+mes "[DPS Output]";
+mes "Your dps is " + dps + ".. WOW";
+end;
+}
