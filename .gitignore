@@ -167,9 +167,3 @@ Thumbs.db
 /libmysql.dll
 /pcre8.dll
 /zlib.dll
-*.lastbuildstate
-*.log
-*.lastbuildstate
-*.tlog
-*.obj
-*.pdb
