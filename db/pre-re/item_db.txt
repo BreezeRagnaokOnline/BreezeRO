@@ -6594,3 +6594,18 @@
 40009,BreezeRO_Sigrun's_Wing_,BreezeRO Sigrun's Wings,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,568,{},{},{}
 40010,BreezeRO_Small_Ribbons_,BreezeRO Small Ribbons,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,169,{},{},{}
 40011,BreezeRO_Elven_Ears_,BreezeRO Elven Ears,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,73,{},{},{}
+40012,BreezeRO_Green_Angel_Wing_Ears,BreezeRO Green Angel Wing Ears,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,1678,{},{},{}
+40013,BreezeRO_Green_Angel_Wing_Ears_,BreezeRO Green Angel Wing Ears,4,10,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,1678,{},{},{}
+
+// BreezeRO Custom Pet Eggs
+50000,Deviling_Egg,Deviling Egg,7,20,,0,,,,,,,,,,,,,{},{},{}
+50001,Nine_Tail_Egg,Cat o' Nine Tails Egg,7,20,,0,,,,,,,,,,,,,{},{},{}
+50002,Ghostring_Egg,Ghostring Egg,7,20,,0,,,,,,,,,,,,,{},{},{}
+50003,Pouring_Egg,Pouring Egg,7,20,,0,,,,,,,,,,,,,{},{},{}
+50004,Tendrilion_Egg,Tendrilion Egg,7,20,,0,,,,,,,,,,,,,{},{},{}
+50005,Kapha_Egg,Deep Sea Kapha Egg,7,20,,0,,,,,,,,,,,,,{},{},{}
+50006,Wild_Rider_Egg,Wild Rider Egg,7,20,,0,,,,,,,,,,,,,{},{},{}
+50007,Bomb_Poring_Egg,Bomb Poring Egg,7,20,,0,,,,,,,,,,,,,{},{},{}
+50008,Magmaring_Egg,Magmaring Egg,7,20,,0,,,,,,,,,,,,,{},{},{}
+50009,Santa_Poring_Egg,Santa Poring Egg,7,20,,0,,,,,,,,,,,,,{},{},{}
+
